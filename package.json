@@ -1,0 +1,15 @@
+{
+	"name": "@hgargg-0710/summat.ts",
+	"version": "0.0.1",
+	"description": "A tiny package providing a name for the construction to make TypeScript less agressive when encountering unknown properties on objects.",
+	"author": "hgargg-0710",
+	"license": "MIT",
+	"types": "./summat.d.ts",
+	"scripts": {
+		"build": "tsc --project ."
+	},
+	"keywords": [
+		"summat",
+		"typescript"
+	]
+}
